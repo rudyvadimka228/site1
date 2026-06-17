@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мюинг крок за кроком — посібник для початківців</title>
+<meta name="description" content="Безкоштовний покроковий посібник з мюингу українською: правильне положення язика, дихання, постава, часті помилки та лайфхаки.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <a href="#top" class="logo"><span class="logo-mark">👅</span> Мюинг Посібник</a>
+    <div class="nav-links">
+      <a href="#kroky">Кроки</a>
+      <a href="#pomylky">Помилки</a>
+      <a href="#faq">Питання</a>
+      <a href="#vidguky">Відгуки</a>
+    </div>
+    <a href="#pidpiska" class="btn btn-primary">Підписатись на поради</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="container hero-grid">
+    <div>
+      <span class="eyebrow">Безкоштовний посібник · українською</span>
+      <h1>Мюинг <em>крок за кроком</em> — без міфів, тільки техніка</h1>
+      <p class="hero-sub">П’ять простих кроків правильного положення язика, дихання і постави. Поясняємо людською мовою, показуємо часті помилки і даємо лайфхаки, які реально допомагають утримати звичку.</p>
+      <div class="hero-cta-row">
+        <a href="#kroky" class="btn btn-primary">Почати з Кроку 1</a>
+        <a href="#pidpiska" class="btn btn-ghost">Щотижневі поради</a>
+      </div>
+      <p class="hero-note">Інформація має ознайомлювальний характер і не замінює консультацію лікаря.</p>
+    </div>
+    <div class="hero-frame">
+      <img src="images/hero.jpg" alt="Порівняння обличчя людини, яка практикує мюинг, та людини, яка цього не робить">
+      <div class="hero-badge">5 кроків · 1 звичка</div>
+    </div>
+  </div>
+</header>
+
+<section class="intro">
+  <div class="container">
+    <div class="intro-card">
+      <div>
+        <span class="eyebrow">Що це таке</span>
+        <h2>Мюинг (mewing) простими словами</h2>
+        <p>Мюинг — це техніка правильного положення язика в роті, названа на честь британського ортодонта Джона Мью. Суть проста: язик увесь час лежить на піднебінні, а не на дні рота. Прихильники техніки пов’язують це з чіткішим контуром обличчя, кращою поставою та звичкою дихати носом.</p>
+        <p>Це не вправа на «5 хвилин у день» — це звичка, яку намагаються утримувати якомога довше протягом дня, поки вона не стане автоматичною.</p>
+      </div>
+      <div class="disclaimer">
+        <strong>Важливо перед початком</strong>
+        Цей посібник має інформаційний характер і не є медичною консультацією. Якщо у вас є проблеми з прикусом, скронево-нижньощелепним суглобом, диханням чи хронічний біль у щелепі — перед практикою мюингу проконсультуйтеся з лікарем-ортодонтом.
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="path-section" id="kroky">
+  <div class="path-line" aria-hidden="true"></div>
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Покрокова інструкція</span>
+      <h2>5 кроків правильного мюингу</h2>
+    </div>
+
+    <!-- STEP 1 -->
+    <article class="step">
+      <div class="step-badge">01</div>
+      <div class="step-art">
+        <img src="images/step-1-tongue.jpg" alt="Правильне положення язика на піднебінні та неправильне положення язика внизу">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Крок 1</span>
+        <h3>Притисніть язик до піднебіння</h3>
+        <p>Притисніть усю поверхню язика (не лише кінчик) до твердого піднебіння за верхніми зубами, не торкаючись самих зубів. Губи зімкнуті без напруги, дихання — через ніс.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Часта помилка</strong><p>Тиснути лише кінчиком язика в передні зуби — це може зсунути різці, а не сформувати правильну позицію.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Зробіть ковток слини — у момент ковтка язик сам піднімається у правильну позицію. Запам’ятайте це відчуття.</p></div>
+        </div>
+      </div>
+    </article>
+
+    <!-- STEP 2 -->
+    <article class="step reverse">
+      <div class="step-badge">02</div>
+      <div class="step-art">
+        <img src="images/step-2-find-position.jpg" alt="Як знайти правильну позицію язика за допомогою ковтка">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Крок 2</span>
+        <h3>Знайдіть позицію через ковток</h3>
+        <p>Якщо не відчуваєте, де саме «правильне» місце — кілька разів проковтніть слину і зафіксуйте, куди піднімається язик у момент ковтка. Це і є цільова позиція для постійного утримання.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Часта помилка</strong><p>Шукати позицію з напруженою щелепою або стиснутими зубами — мюинг працює без зайвого зусилля мімічних м’язів.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Тренуйтеся перед дзеркалом у профіль — так легше помітити, чи не напружена щелепа і чи не випирає підборіддя.</p></div>
+        </div>
+      </div>
+    </article>
+
+    <!-- STEP 3 -->
+    <article class="step">
+      <div class="step-badge">03</div>
+      <div class="step-art">
+        <img src="images/step-3-breathing.jpg" alt="Правильне носове дихання та неправильне дихання ротом">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Крок 3</span>
+        <h3>Дихайте тільки через ніс</h3>
+        <p>І вдих, і видих — через ніс, протягом дня і під час сну. Ротове дихання знижує тиск язика на піднебіння і суттєво слабшає ефект мюингу.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Часта помилка</strong><p>Дихати ротом через закладений ніс «за звичкою» — у такому разі язик опускається донизу, і вправа не працює.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Якщо складно дихати носом уночі — перевірте носову прохідність (промивання сольовим розчином) або зверніться до ЛОРа, перш ніж продовжувати практику.</p></div>
+        </div>
+      </div>
+    </article>
+
+    <!-- STEP 4 -->
+    <article class="step reverse">
+      <div class="step-badge">04</div>
+      <div class="step-art">
+        <img src="images/step-4-head.jpg" alt="Правильна постава голови над плечима та неправильна висунута вперед голова">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Крок 4</span>
+        <h3>Тримайте голову над плечима</h3>
+        <p>Вухо має бути приблизно над плечем, а не виступати вперед. Висунута вперед голова перевантажує шию і змінює природне положення щелепи.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Часта помилка</strong><p>«Комп’ютерна шия» — голова тягнеться до екрана, підборіддя виступає вперед протягом усього робочого дня.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Раз на годину перевіряйте поставу біля стіни: торкніться її потилицею, лопатками і п’ятами одночасно.</p></div>
+        </div>
+      </div>
+    </article>
+
+    <!-- STEP 5 -->
+    <article class="step">
+      <div class="step-badge">05</div>
+      <div class="step-art">
+        <img src="images/step-5-shoulders.jpg" alt="Розслаблені плечі правильно та напружені плечі неправильно">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Крок 5</span>
+        <h3>Розслабте плечі</h3>
+        <p>Плечі мають бути опущені, без підняття до вух. Загальне м’язове напруження в тілі заважає природному, без зусиль, положенню язика і щелепи.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Часта помилка</strong><p>Підіймати плечі під час стресу або довгої роботи за комп’ютером, навіть не помічаючи цього.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Поєднайте дві перевірки в одну звичку: щоразу, перевіряючи язик на піднебінні, одночасно опускайте й розслабляйте плечі.</p></div>
+        </div>
+      </div>
+    </article>
+
+    <!-- MISTAKES -->
+    <article class="step reverse" id="pomylky">
+      <div class="step-badge warn">!</div>
+      <div class="step-art">
+        <img src="images/mistakes.jpg" alt="Помилка тиску кінчиком язика та помилка несиметричного тиску">
+      </div>
+      <div class="step-copy">
+        <span class="step-kicker">Найчастіші помилки</span>
+        <h3>Тиснути правильно — усією поверхнею і симетрично</h3>
+        <p>Дві помилки трапляються найчастіше і здатні звести нанівець весь прогрес.</p>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Тиск кінчиком</strong><p>Зусилля концентрується тільки на передніх зубах замість усього піднебіння.</p></div>
+        </div>
+        <div class="tip-row tip-mistake">
+          <span class="tip-icon">✕</span>
+          <div><strong>Несиметричний тиск</strong><p>Тиснути сильніше однією стороною з часом може спричинити асиметрію обличчя.</p></div>
+        </div>
+        <div class="tip-row tip-hack">
+          <span class="tip-icon">✓</span>
+          <div><strong>Лайфхак</strong><p>Раз на тиждень перевіряйте симетрію обличчя перед дзеркалом і коригуйте тиск, якщо помітили перекіс.</p></div>
+        </div>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="cta-band-wrap container" id="pidpiska">
+  <div class="cta-band">
+    <div>
+      <h2>Щотижневі поради з мюингу на email</h2>
+      <p>Короткі практичні нагадування й нюанси техніки — раз на тиждень, без спаму.</p>
+    </div>
+    <div>
+      <form class="cta-form" id="subscribeForm">
+        <input type="email" name="email" placeholder="Ваш email" required aria-label="Email для підписки">
+        <button type="submit" class="btn btn-primary">Підписатися</button>
+      </form>
+      <p class="form-msg" id="subscribeMsg"></p>
+    </div>
+  </div>
+</section>
+
+<section class="faq" id="faq">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Часті питання</span>
+      <h2>FAQ про мюинг</h2>
+    </div>
+
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-q">Скільки часу тримати язик у правильному положенні?<span class="plus">+</span></button>
+        <div class="faq-a"><p>В ідеалі — протягом усього дня. Почніть з кількох годин і поступово збільшуйте час, доки положення не стане автоматичним і не вимагатиме свідомого контролю.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Коли з’являться перші результати?<span class="plus">+</span></button>
+        <div class="faq-a"><p>Зміни постави й звички дихати носом можна відчути вже за кілька тижнів. Видимі зміни контуру обличчя (якщо вони взагалі відбудуться) — питання місяців і залежать від віку та індивідуальних особливостей.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Чи працює мюинг у дорослих?<span class="plus">+</span></button>
+        <div class="faq-a"><p>У дорослих кістки обличчя вже сформовані, тому ефект здебільшого стосується постави, м’язового тонусу і звички дихати носом, а не суттєвої зміни форми щелепи.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Чи може мюинг зашкодити?<span class="plus">+</span></button>
+        <div class="faq-a"><p>Так, при надмірному тиску кінчиком язика або асиметричному тиску можна зсунути окремі зуби. Виконуйте вправу м’яко, усією поверхнею язика, без напруги щелепи.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Що робити, якщо болить язик або щелепа?<span class="plus">+</span></button>
+        <div class="faq-a"><p>Зробіть перерву і зменшіть зусилля. Якщо біль постійний — це причина звернутися до лікаря, а не «перетерпіти».</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Чи потрібні додаткові вправи окрім самого положення язика?<span class="plus">+</span></button>
+        <div class="faq-a"><p>Базовий мюинг — це саме утримання положення язика, дихання і постави з цього посібника. Додаткові вправи можуть посилити ефект, але не є обов’язковими для початку.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="reviews" id="vidguky">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Досвід читачів</span>
+      <h2>Відгуки</h2>
+    </div>
+    <div class="reviews-grid">
+      <div>
+        <div class="review-list" id="reviewList">
+          <div class="review-empty" id="reviewEmpty">Поки що тут порожньо. Будьте першим, хто поділиться своїм досвідом мюингу 👇</div>
+        </div>
+      </div>
+      <form class="review-form" id="reviewForm">
+        <label for="rName">Ваше ім’я</label>
+        <input type="text" id="rName" name="name" placeholder="Наприклад, Олена" required maxlength="40">
+        <label for="rText">Відгук</label>
+        <textarea id="rText" name="text" placeholder="Розкажіть про свій досвід практики мюингу…" required maxlength="500"></textarea>
+        <button type="submit" class="btn btn-primary">Надіслати відгук</button>
+        <p class="form-msg" id="reviewMsg"></p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div>
+      <p class="foot-disclaimer"><strong>Дисклеймер.</strong> Матеріали сайту мають ознайомлювальний характер і не замінюють консультацію лікаря-ортодонта чи остеопата.</p>
+      <p class="copy">© 2026 Мюинг Посібник</p>
+    </div>
+    <a class="tg" href="https://t.me/onysko_vadim" target="_blank" rel="noopener">✈️ Запитати в Telegram</a>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
